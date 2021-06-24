@@ -1,2 +1,2 @@
 # creations
-short projects where i code 
+my projects to help others interested :) 
